@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Philosophers", "Philosophers\Philosophers.csproj", "{9028E2FE-3451-46AF-8184-5E454394DF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9028E2FE-3451-46AF-8184-5E454394DF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9028E2FE-3451-46AF-8184-5E454394DF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9028E2FE-3451-46AF-8184-5E454394DF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9028E2FE-3451-46AF-8184-5E454394DF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD38D35-7A64-4336-8EF8-61B7F44C122A}
+	EndGlobalSection
+EndGlobal
